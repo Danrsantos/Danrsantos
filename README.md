@@ -1,6 +1,6 @@
 # Olá, sou o Danilo Ribeiro dos Santos
 
-Venho me dedicando a Programação nas horas vagas, pois o que costumava ser uma curiosidade hoje se tornou um passatempo e quem sabe o que isso pode ser daqui a um tempo...
+  Venho me dedicando a Programação nas horas vagas e o que costumava ser uma curiosidade hoje se tornou um passatempo e quem sabe o que isso pode ser daqui a um tempo...
 
 ---
 
